@@ -11,8 +11,8 @@
   read_hitran.c: changed int ndims[2] to mwSize ndims[2]
   hselect.c: cast main as void, add libs string.h and sys/stat.h
 
-This distribution includes a Matlab HITRAN reader,some tools for
-manipulating HITRAN files, and examples of using Unix "sort" to
+This distribution includes C and Matlab HITRAN readers, some tools
+for manipulating HITRAN files, and examples of using Unix "sort" to
 merge, update, or sort a HITRAN database.  See read_hitr.txt for
 more info.
 
