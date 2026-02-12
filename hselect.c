@@ -34,7 +34,7 @@ DISCUSSION
   For the breakout option, -b, gasses in <dout> have filenames of
   the form g<n>.dat
 
-2026 updates: cast main as void, add libs string.h and sys/stat.h
+  2026 updates: cast main as void, add libs string.h and sys/stat.h
 
 */
 
